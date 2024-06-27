@@ -1,0 +1,117 @@
+#navbar{
+    display: flex;
+    gap: 20%;
+    margin-left: 3%;
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 65%;
+    margin-top: 16%;
+}
+.logo span{
+    color: #F26389;
+}
+#logo{
+    margin-top: 32px;
+}
+.logo{
+    font-size: 30px;
+}
+ul li a{
+    text-decoration: none;
+    color: #ABABAB;
+    font-weight: bold;
+}
+#icons{
+    display: flex;
+    gap: 35%;
+    margin-top: 10px;
+    margin-left: 15%;
+}
+.icon{
+    font-size: 80px;
+    color: #606060;
+}
+.search-icon-top{
+    font-size: 100px;
+    margin-top: -8px;
+    color: #606060;
+
+}
+.search-bar {
+    display: flex;
+    align-items: center;
+    background-color: #f2f2f2;
+    border-radius: 20px;
+    padding: 5px 35px;
+    padding-top: 9px;
+    margin-left: 25%;
+    width: 90%;
+}
+  
+.search-icon {
+    color: #666;
+    font-size: 18px;
+    margin-right: 10px;
+    /* border: solid 2px; */
+    margin-top: 2%;
+}
+  
+.search-input {
+    flex: 1;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    font-size: 12px;
+    padding: 5px;
+}
+.headphones{
+    height: 330px;
+    width: 360px;
+    object-fit: cover;
+    margin-top: 3%;
+}
+#landing{
+    display: flex;
+    gap: 35%;
+    border: solid ;
+    background-color: #FED3DC;
+    height: 350px;
+    margin-left: 3%;
+    padding: 10px 20px;
+    border-radius: 25px;
+    width: 90%;
+}
+.h21{
+    margin-left: 5%;
+}
+#intro{
+    margin-left: 4%;
+    margin-top: 2%;
+}
+/* .search-input {
+    display: flex;
+    align-items: center;
+    background-color: #f2f2f2;
+    border-radius: 20px;
+    padding: 8px 16px;
+  }
+  
+  .search-icon {
+    color: #888;
+    margin-right: 8px;
+  }
+  
+  .search-input input {
+    flex: 1;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    font-size: 16px;
+    color: #333;
+  }
+  
+  .search-input input::placeholder {
+    color: #aaa;
+  } */
